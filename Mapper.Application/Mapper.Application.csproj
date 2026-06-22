@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mapper.Communication\Mapper.Communication.csproj" />
+    <ProjectReference Include="..\Mapper.Domain\Mapper.Domain.csproj" />
+    <ProjectReference Include="..\Mapper.Exception\Mapper.Exception.csproj" />
+    <ProjectReference Include="..\Mapper.Infrastructure\Mapper.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="16.1.1" />
+  </ItemGroup>
+
+</Project>

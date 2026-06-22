@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/API/">
+    <Project Path="Mapper.API/Mapper.API.csproj" />
+  </Folder>
+  <Folder Name="/src/Backend/">
+    <Project Path="Mapper.Application/Mapper.Application.csproj" />
+    <Project Path="Mapper.Domain/Mapper.Domain.csproj" />
+    <Project Path="Mapper.Infrastructure/Mapper.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="Mapper.Communication/Mapper.Communication.csproj" />
+    <Project Path="Mapper.Exception/Mapper.Exception.csproj" />
+  </Folder>
+</Solution>
