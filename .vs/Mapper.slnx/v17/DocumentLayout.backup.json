@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Projetos\\Programas\\Mapper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8902D6F-4823-579F-9547-7E1BF9D42DF5}|Mapper.Infrastructure\\Mapper.Infrastructure.csproj|c:\\projetos\\programas\\mapper\\mapper.infrastructure\\data\\dbomapper\\map\\equipamentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8902D6F-4823-579F-9547-7E1BF9D42DF5}|Mapper.Infrastructure\\Mapper.Infrastructure.csproj|solutionrelative:mapper.infrastructure\\data\\dbomapper\\map\\equipamentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8902D6F-4823-579F-9547-7E1BF9D42DF5}|Mapper.Infrastructure\\Mapper.Infrastructure.csproj|c:\\projetos\\programas\\mapper\\mapper.infrastructure\\data\\dbomapper\\map\\notebookmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8902D6F-4823-579F-9547-7E1BF9D42DF5}|Mapper.Infrastructure\\Mapper.Infrastructure.csproj|solutionrelative:mapper.infrastructure\\data\\dbomapper\\map\\notebookmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|c:\\projetos\\programas\\mapper\\mapper.domain\\entities\\commons\\abstractionintdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|solutionrelative:mapper.domain\\entities\\commons\\abstractionintdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|c:\\projetos\\programas\\mapper\\mapper.domain\\entities\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|solutionrelative:mapper.domain\\entities\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|c:\\projetos\\programas\\mapper\\mapper.domain\\entities\\commons\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|solutionrelative:mapper.domain\\entities\\commons\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8902D6F-4823-579F-9547-7E1BF9D42DF5}|Mapper.Infrastructure\\Mapper.Infrastructure.csproj|c:\\projetos\\programas\\mapper\\mapper.infrastructure\\data\\dbomapper\\mappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8902D6F-4823-579F-9547-7E1BF9D42DF5}|Mapper.Infrastructure\\Mapper.Infrastructure.csproj|solutionrelative:mapper.infrastructure\\data\\dbomapper\\mappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8902D6F-4823-579F-9547-7E1BF9D42DF5}|Mapper.Infrastructure\\Mapper.Infrastructure.csproj|c:\\projetos\\programas\\mapper\\mapper.infrastructure\\mapper.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B8902D6F-4823-579F-9547-7E1BF9D42DF5}|Mapper.Infrastructure\\Mapper.Infrastructure.csproj|solutionrelative:mapper.infrastructure\\mapper.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1D42817D-B222-D918-CE2C-D814FF62E171}|Mapper.Application\\Mapper.Application.csproj|c:\\projetos\\programas\\mapper\\mapper.application\\services\\automapper\\mappercomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D42817D-B222-D918-CE2C-D814FF62E171}|Mapper.Application\\Mapper.Application.csproj|solutionrelative:mapper.application\\services\\automapper\\mappercomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D42817D-B222-D918-CE2C-D814FF62E171}|Mapper.Application\\Mapper.Application.csproj|c:\\projetos\\programas\\mapper\\mapper.application\\services\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{1D42817D-B222-D918-CE2C-D814FF62E171}|Mapper.Application\\Mapper.Application.csproj|c:\\projetos\\programas\\mapper\\mapper.application\\models\\dto\\computerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D42817D-B222-D918-CE2C-D814FF62E171}|Mapper.Application\\Mapper.Application.csproj|solutionrelative:mapper.application\\models\\dto\\computerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|c:\\projetos\\programas\\mapper\\mapper.domain\\entities\\commons\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|solutionrelative:mapper.domain\\entities\\commons\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|c:\\projetos\\programas\\mapper\\mapper.domain\\entities\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|solutionrelative:mapper.domain\\entities\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{651FE664-6F8E-2A6A-B151-F3EF7E6ECB97}|Mapper.Communication\\Mapper.Communication.csproj|c:\\projetos\\programas\\mapper\\mapper.communication\\entities\\resentities.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
@@ -71,6 +55,10 @@
       "RelativeMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|solutionrelative:mapper.domain\\entities\\enums\\estatuscomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|c:\\projetos\\programas\\mapper\\mapper.domain\\entities\\commons\\abstractionintdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|solutionrelative:mapper.domain\\entities\\commons\\abstractionintdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|c:\\projetos\\programas\\mapper\\mapper.domain\\entities\\commons\\abstractiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F41BC55-D10B-ED4E-F48E-A46CF57F31BE}|Mapper.Domain\\Mapper.Domain.csproj|solutionrelative:mapper.domain\\entities\\commons\\abstractiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,34 +74,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EquipamentMap.cs",
-              "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Infrastructure\\Data\\DboMapper\\Map\\EquipamentMap.cs",
-              "RelativeDocumentMoniker": "Mapper.Infrastructure\\Data\\DboMapper\\Map\\EquipamentMap.cs",
-              "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Infrastructure\\Data\\DboMapper\\Map\\EquipamentMap.cs",
-              "RelativeToolTip": "Mapper.Infrastructure\\Data\\DboMapper\\Map\\EquipamentMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T17:58:21.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NotebookMap.cs",
-              "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Infrastructure\\Data\\DboMapper\\Map\\NotebookMap.cs",
-              "RelativeDocumentMoniker": "Mapper.Infrastructure\\Data\\DboMapper\\Map\\NotebookMap.cs",
-              "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Infrastructure\\Data\\DboMapper\\Map\\NotebookMap.cs",
-              "RelativeToolTip": "Mapper.Infrastructure\\Data\\DboMapper\\Map\\NotebookMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T15:59:56.55Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -152,72 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Notebook.cs",
-              "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Notebook.cs",
-              "RelativeDocumentMoniker": "Mapper.Domain\\Entities\\Notebook.cs",
-              "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Notebook.cs",
-              "RelativeToolTip": "Mapper.Domain\\Entities\\Notebook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T00:21:35.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AbstractionIntDAO.cs",
-              "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Commons\\AbstractionIntDAO.cs",
-              "RelativeDocumentMoniker": "Mapper.Domain\\Entities\\Commons\\AbstractionIntDAO.cs",
-              "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Commons\\AbstractionIntDAO.cs",
-              "RelativeToolTip": "Mapper.Domain\\Entities\\Commons\\AbstractionIntDAO.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T00:24:56.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Computer.cs",
-              "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Commons\\Computer.cs",
-              "RelativeDocumentMoniker": "Mapper.Domain\\Entities\\Commons\\Computer.cs",
-              "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Commons\\Computer.cs",
-              "RelativeToolTip": "Mapper.Domain\\Entities\\Commons\\Computer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T00:24:17.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MapperContext.cs",
-              "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Infrastructure\\Data\\DboMapper\\MapperContext.cs",
-              "RelativeDocumentMoniker": "Mapper.Infrastructure\\Data\\DboMapper\\MapperContext.cs",
-              "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Infrastructure\\Data\\DboMapper\\MapperContext.cs",
-              "RelativeToolTip": "Mapper.Infrastructure\\Data\\DboMapper\\MapperContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T15:51:24.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Mapper.Infrastructure",
-              "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Infrastructure\\Mapper.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Mapper.Infrastructure\\Mapper.Infrastructure.csproj",
-              "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Infrastructure\\Mapper.Infrastructure.csproj",
-              "RelativeToolTip": "Mapper.Infrastructure\\Mapper.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-05T15:49:44.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Application\\Services\\AutoMapper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Mapper.Application\\Services\\AutoMapper\\MappingProfile.cs",
@@ -230,7 +127,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "MapperComputer.cs",
+              "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Application\\Services\\AutoMapper\\MapperComputer.cs",
+              "RelativeDocumentMoniker": "Mapper.Application\\Services\\AutoMapper\\MapperComputer.cs",
+              "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Application\\Services\\AutoMapper\\MapperComputer.cs",
+              "RelativeToolTip": "Mapper.Application\\Services\\AutoMapper\\MapperComputer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T02:19:08.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Interfaces\\IQuery.cs",
               "RelativeDocumentMoniker": "Mapper.Domain\\Interfaces\\IQuery.cs",
@@ -238,11 +148,12 @@
               "RelativeToolTip": "Mapper.Domain\\Interfaces\\IQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T02:07:55.055Z"
+              "WhenOpened": "2026-07-05T02:07:55.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "ComputerDto.cs",
               "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Application\\Models\\DTO\\ComputerDto.cs",
               "RelativeDocumentMoniker": "Mapper.Application\\Models\\DTO\\ComputerDto.cs",
@@ -250,11 +161,38 @@
               "RelativeToolTip": "Mapper.Application\\Models\\DTO\\ComputerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T01:56:08.946Z"
+              "WhenOpened": "2026-07-05T01:56:08.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Commons\\Computer.cs",
+              "RelativeDocumentMoniker": "Mapper.Domain\\Entities\\Commons\\Computer.cs",
+              "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Commons\\Computer.cs",
+              "RelativeToolTip": "Mapper.Domain\\Entities\\Commons\\Computer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T00:24:17.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notebook.cs",
+              "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Notebook.cs",
+              "RelativeDocumentMoniker": "Mapper.Domain\\Entities\\Notebook.cs",
+              "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Notebook.cs",
+              "RelativeToolTip": "Mapper.Domain\\Entities\\Notebook.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T00:21:35.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Equipament.cs",
               "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Equipament.cs",
               "RelativeDocumentMoniker": "Mapper.Domain\\Entities\\Equipament.cs",
@@ -262,22 +200,24 @@
               "RelativeToolTip": "Mapper.Domain\\Entities\\Equipament.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:37:46.739Z"
+              "WhenOpened": "2026-07-04T19:37:46.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "ResEntities.resx",
               "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Communication\\Entities\\ResEntities.resx",
               "RelativeDocumentMoniker": "Mapper.Communication\\Entities\\ResEntities.resx",
               "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Communication\\Entities\\ResEntities.resx",
               "RelativeToolTip": "Mapper.Communication\\Entities\\ResEntities.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-07-05T00:20:55.012Z"
+              "WhenOpened": "2026-07-05T00:20:55.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Desktop.cs",
               "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Desktop.cs",
               "RelativeDocumentMoniker": "Mapper.Domain\\Entities\\Desktop.cs",
@@ -285,11 +225,12 @@
               "RelativeToolTip": "Mapper.Domain\\Entities\\Desktop.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:37:47.778Z"
+              "WhenOpened": "2026-07-04T19:37:47.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "EnumsExtension.cs",
               "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Extensions\\EnumsExtension.cs",
               "RelativeDocumentMoniker": "Mapper.Domain\\Extensions\\EnumsExtension.cs",
@@ -297,11 +238,12 @@
               "RelativeToolTip": "Mapper.Domain\\Extensions\\EnumsExtension.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T00:39:17.072Z"
+              "WhenOpened": "2026-07-05T00:39:17.072Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "CodifierEquip.cs",
               "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Structs\\CodifierEquip.cs",
               "RelativeDocumentMoniker": "Mapper.Domain\\Structs\\CodifierEquip.cs",
@@ -309,23 +251,25 @@
               "RelativeToolTip": "Mapper.Domain\\Structs\\CodifierEquip.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T00:57:36.918Z"
+              "WhenOpened": "2026-07-05T00:57:36.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Mapper.Domain.csproj",
+              "DocumentIndex": 11,
+              "Title": "Mapper.Domain",
               "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Mapper.Domain.csproj",
               "RelativeDocumentMoniker": "Mapper.Domain\\Mapper.Domain.csproj",
               "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Mapper.Domain.csproj",
               "RelativeToolTip": "Mapper.Domain\\Mapper.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-04T19:37:26.651Z"
+              "WhenOpened": "2026-07-04T19:37:26.651Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 12,
               "Title": "EStatusComputer.cs",
               "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Enums\\EStatusComputer.cs",
               "RelativeDocumentMoniker": "Mapper.Domain\\Entities\\Enums\\EStatusComputer.cs",
@@ -333,11 +277,25 @@
               "RelativeToolTip": "Mapper.Domain\\Entities\\Enums\\EStatusComputer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:37:40.502Z"
+              "WhenOpened": "2026-07-04T19:37:40.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 13,
+              "Title": "AbstractionIntDAO.cs",
+              "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Commons\\AbstractionIntDAO.cs",
+              "RelativeDocumentMoniker": "Mapper.Domain\\Entities\\Commons\\AbstractionIntDAO.cs",
+              "ToolTip": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Commons\\AbstractionIntDAO.cs",
+              "RelativeToolTip": "Mapper.Domain\\Entities\\Commons\\AbstractionIntDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T00:24:56.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "AbstractionDAO.cs",
               "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Commons\\AbstractionDAO.cs",
               "RelativeDocumentMoniker": "Mapper.Domain\\Entities\\Commons\\AbstractionDAO.cs",
@@ -345,11 +303,12 @@
               "RelativeToolTip": "Mapper.Domain\\Entities\\Commons\\AbstractionDAO.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAADwvx0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T00:24:19.415Z"
+              "WhenOpened": "2026-07-05T00:24:19.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "ETypeEquip.cs",
               "DocumentMoniker": "C:\\Projetos\\Programas\\Mapper\\Mapper.Domain\\Entities\\Enums\\ETypeEquip.cs",
               "RelativeDocumentMoniker": "Mapper.Domain\\Entities\\Enums\\ETypeEquip.cs",
@@ -357,7 +316,8 @@
               "RelativeToolTip": "Mapper.Domain\\Entities\\Enums\\ETypeEquip.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:37:36.225Z"
+              "WhenOpened": "2026-07-04T19:37:36.225Z",
+              "EditorCaption": ""
             }
           ]
         }

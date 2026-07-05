@@ -12,6 +12,7 @@ namespace Mapper.Domain.Entities
     [Table("Notebook")]
     public class Notebook : Computer
     {
+
         [Display(Name = "NameNOTE", ResourceType = typeof(Notebook))]
         public string Name { get; set; } = string.Empty;
         [Display(Name ="ModelNOTE",ResourceType = typeof(ResEntities))]
