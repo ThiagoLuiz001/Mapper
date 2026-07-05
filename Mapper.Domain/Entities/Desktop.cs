@@ -1,7 +1,7 @@
 ﻿using Mapper.Communication.Entities;
 using Mapper.Domain.Entities.Commons;
-using System;
-using System.Collections.Generic;
+using Mapper.Domain.Entities.Enums;
+using Mapper.Domain.Structs;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Reflection;
@@ -24,9 +24,14 @@ namespace Mapper.Domain.Entities
         public override string getAllInformation()
         {
             var sb = new StringBuilder();
-            sb.AppendLine("______Informarções DeskTop______");
+            sb.AppendLine(ResEntities.InfoDESK);
             sb.AppendLine(this.About());
             return sb.ToString();
+        }
+
+        public override CodifierEquip SetEquipament()
+        {
+            return new CodifierEquip(this.Id, ETypeEquip.Desktop);
         }
 
 

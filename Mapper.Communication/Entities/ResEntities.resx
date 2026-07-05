@@ -135,6 +135,9 @@
   <data name="CreateDAO" xml:space="preserve">
     <value>Criado em</value>
   </data>
+  <data name="EquipamentCOMPUTER" xml:space="preserve">
+    <value>Equipamento</value>
+  </data>
   <data name="FanDESK" xml:space="preserve">
     <value>Veontoinhas</value>
   </data>
@@ -144,8 +147,20 @@
   <data name="GpuCOMPUTER" xml:space="preserve">
     <value>Placa de Vídeo</value>
   </data>
+  <data name="GuidCOMPUTER" xml:space="preserve">
+    <value>Id do Equipamento</value>
+  </data>
   <data name="IdDAO" xml:space="preserve">
     <value>ID</value>
+  </data>
+  <data name="InfoDESK" xml:space="preserve">
+    <value>______Informarções DeskTop______</value>
+  </data>
+  <data name="InfoNOTE" xml:space="preserve">
+    <value>______Informações Notebook______</value>
+  </data>
+  <data name="MacCOMPUTER" xml:space="preserve">
+    <value>Endereço MAC</value>
   </data>
   <data name="ManufactoryNOTE" xml:space="preserve">
     <value>Fabricante</value>

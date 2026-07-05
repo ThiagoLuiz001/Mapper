@@ -1,13 +1,18 @@
 ﻿using Mapper.Communication.Entities;
 using Mapper.Domain.Entities.Enums;
+using Mapper.Domain.Structs;
 using System.ComponentModel.DataAnnotations;
 
 
 
 namespace Mapper.Domain.Entities.Commons
 {
-    public abstract class Computer :AbstractionDAO
+    public abstract class Computer :AbstractionIntDAO
     {
+        [Display(Name = "GuidCOMPUTER",ResourceType =typeof(ResEntities))]
+        public Guid? EquipamentId { get; set; }
+        [Display(Name = "EquipamentCOMPUTER", ResourceType = typeof(ResEntities))]
+        public Equipament? Equipament { get; set; }
         [Display(Name = "CpuCOMPUTER",ResourceType =typeof(ResEntities))]
         public string Cpu { get; set; } = string.Empty;
 
@@ -25,16 +30,14 @@ namespace Mapper.Domain.Entities.Commons
 
         [Display(Name = "FonteCOMPUTER",ResourceType =typeof (ResEntities))]
         public string? Font { get; set; }
-
-        public string Information { get
-            {
-                return getAllInformation();
-            } private set; }
+        [Display(Name = "MacCOMPUTER", ResourceType = typeof(ResEntities))]
+        public string? MacAddress { get; set; }
 
         public EStatusComputer Status { get; set; }
 
 
         public abstract string getAllInformation();
+        public abstract CodifierEquip SetEquipament();
 
     }
 }

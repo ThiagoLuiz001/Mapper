@@ -1,9 +1,11 @@
 ﻿using Mapper.Communication.Entities;
 using Mapper.Domain.Entities.Commons;
+using Mapper.Domain.Structs;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Reflection;
 using System.Text;
+using Mapper.Domain.Entities.Enums;
 
 namespace Mapper.Domain.Entities
 {
@@ -24,9 +26,13 @@ namespace Mapper.Domain.Entities
         public override string getAllInformation()
         {
             var sb = new StringBuilder();
-            sb.AppendLine("______Informações Notebook______");
+            sb.AppendLine(ResEntities.InfoNOTE);
             sb.AppendLine(this.About());
             return sb.ToString();
+        }
+        public override CodifierEquip SetEquipament()
+        {
+            return new CodifierEquip(this.Id, ETypeEquip.Notebook);
         }
 
 

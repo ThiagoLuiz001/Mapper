@@ -19,7 +19,7 @@ namespace Mapper.Communication.Entities {
     // através de uma ferramenta como ResGen ou Visual Studio.
     // Para adicionar ou remover um associado, edite o arquivo .ResX e execute ResGen novamente
     // com a opção /str, ou recrie o projeto do VS.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "18.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class ResEntities {
@@ -115,6 +115,15 @@ namespace Mapper.Communication.Entities {
         }
         
         /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Equipamento.
+        /// </summary>
+        public static string EquipamentCOMPUTER {
+            get {
+                return ResourceManager.GetString("EquipamentCOMPUTER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Consulta uma cadeia de caracteres localizada semelhante a Veontoinhas.
         /// </summary>
         public static string FanDESK {
@@ -142,11 +151,47 @@ namespace Mapper.Communication.Entities {
         }
         
         /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Id do Equipamento.
+        /// </summary>
+        public static string GuidCOMPUTER {
+            get {
+                return ResourceManager.GetString("GuidCOMPUTER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Consulta uma cadeia de caracteres localizada semelhante a ID.
         /// </summary>
         public static string IdDAO {
             get {
                 return ResourceManager.GetString("IdDAO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a ______Informarções DeskTop______.
+        /// </summary>
+        public static string InfoDESK {
+            get {
+                return ResourceManager.GetString("InfoDESK", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a ______Informações Notebook______.
+        /// </summary>
+        public static string InfoNOTE {
+            get {
+                return ResourceManager.GetString("InfoNOTE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Endereço MAC.
+        /// </summary>
+        public static string MacCOMPUTER {
+            get {
+                return ResourceManager.GetString("MacCOMPUTER", resourceCulture);
             }
         }
         

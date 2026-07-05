@@ -15,7 +15,7 @@ namespace Mapper.Domain.Extensions
             {
                 ETypeEquip.Desktop => "DESK",
                 ETypeEquip.Notebook => "NOTE",
-                ETypeEquip.Screen => "SCRN",
+                ETypeEquip.Screen => "SCREEN",
                 ETypeEquip.Printer => "PRINT",
                 ETypeEquip.Server => "SVD",
                 ETypeEquip.Nobreak => "NBRK",

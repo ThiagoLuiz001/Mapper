@@ -9,7 +9,7 @@ using static System.Net.Mime.MediaTypeNames;
 namespace Mapper.Application.Models.DTO
 {
     public record ComputerDto(
-        Guid Id,
+        int Id,
         DateTime Create,
         DateTime Update,
         bool Active,
@@ -19,12 +19,13 @@ namespace Mapper.Application.Models.DTO
         string? Ram,
         string? Storage,
         string? Font,
+        string? MacAddress,
         EStatusComputer Status,
         string? Info
         );
 
     public record NotebookDto(
-        Guid Id,
+        int Id,
         DateTime Create,
         DateTime Update,
         bool Active,
@@ -34,16 +35,17 @@ namespace Mapper.Application.Models.DTO
         string? Ram,
         string? Storage,
         string? Font,
+        string? MacAddress,
         string Name,
         string? Model,
         string Manufacturer,
         string? SerialNumber,
         EStatusComputer Status,
-        string? Info) : ComputerDto(Id,Create,Update,Active,Cpu,MotherBoard,Gpu,Ram, Storage,Font,Status,Info);
+        string? Info) : ComputerDto(Id,Create,Update,Active,Cpu,MotherBoard,Gpu,Ram, Storage,Font,MacAddress,Status,Info);
 
 
     public record DesktopDto(
-        Guid Id,
+        int Id,
         DateTime Create,
         DateTime Update,
         bool Active,
@@ -55,9 +57,10 @@ namespace Mapper.Application.Models.DTO
         string Cooler,
         string? Fan,
         string Cabinet,
-        string? Font, 
+        string? Font,
+        string? MacAddress,
         EStatusComputer Status,
         string? Info
-        ): ComputerDto(Id, Create, Update, Active, Cpu, MotherBoard, Gpu, Ram, Storage, Font, Status, Info);
+        ): ComputerDto(Id, Create, Update, Active, Cpu, MotherBoard, Gpu, Ram, Storage, Font, MacAddress,Status, Info);
 
 }
